@@ -1,0 +1,11 @@
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\bin\Debug\net6.0\Logistic.deps.json
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\bin\Debug\net6.0\Logistic.dll
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\bin\Debug\net6.0\Logistic.pdb
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\obj\Debug\net6.0\Logistic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\obj\Debug\net6.0\Logistic.AssemblyInfoInputs.cache
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\obj\Debug\net6.0\Logistic.AssemblyInfo.cs
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\obj\Debug\net6.0\Logistic.csproj.CoreCompileInputs.cache
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\obj\Debug\net6.0\Logistic.dll
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\obj\Debug\net6.0\refint\Logistic.dll
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\obj\Debug\net6.0\Logistic.pdb
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Logistic\obj\Debug\net6.0\ref\Logistic.dll
