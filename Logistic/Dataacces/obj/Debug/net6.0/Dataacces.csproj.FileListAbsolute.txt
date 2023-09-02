@@ -1,0 +1,17 @@
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\bin\Debug\net6.0\Dataacces.deps.json
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\bin\Debug\net6.0\Dataacces.dll
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\bin\Debug\net6.0\Dataacces.pdb
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\bin\Debug\net6.0\Core.dll
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\bin\Debug\net6.0\Entity.dll
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\bin\Debug\net6.0\Entity.pdb
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\bin\Debug\net6.0\Core.pdb
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\Dataacces.csproj.AssemblyReference.cache
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\Dataacces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\Dataacces.AssemblyInfoInputs.cache
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\Dataacces.AssemblyInfo.cs
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\Dataacces.csproj.CoreCompileInputs.cache
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\Dataacces.csproj.CopyComplete
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\Dataacces.dll
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\refint\Dataacces.dll
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\Dataacces.pdb
+C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Dataacces\obj\Debug\net6.0\ref\Dataacces.dll
