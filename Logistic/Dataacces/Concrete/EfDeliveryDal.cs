@@ -1,0 +1,17 @@
+﻿using Core.DataAccess.Concrete;
+using Dataacces.Abstract;
+using Dataacces.Concrete.EntityFramework.Contexts;
+using Entity.Concrete;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Dataacces.Concrete
+{
+    public class EfDeliveryDal : EfEntityRepositoryBase<Delivery, DatabaseContext>, IDeliveryDal
+    {
+
+    }
+}
