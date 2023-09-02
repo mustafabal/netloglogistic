@@ -8,5 +8,6 @@ namespace Core.Entities.Abstract
 {
     public interface IDomainModel
     {
+        //domain model standartı eklenir
     }
 }

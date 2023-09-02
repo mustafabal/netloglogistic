@@ -8,5 +8,6 @@ namespace Core.Entities.Abstract
 {
     public interface IDto
     {
+        //burada Ientityde ornekte oldugu gibi domainlerin standartları var ise belirlenir 
     }
 }
