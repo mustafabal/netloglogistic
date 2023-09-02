@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DependencyResolver\" />
+    <PackageReference Include="Autofac" Version="7.1.0" />
   </ItemGroup>
 
   <ItemGroup>

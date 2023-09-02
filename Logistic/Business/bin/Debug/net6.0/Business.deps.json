@@ -8,12 +8,24 @@
     ".NETCoreApp,Version=v6.0": {
       "Business/1.0.0": {
         "dependencies": {
+          "Autofac": "7.1.0",
           "Core": "1.0.0",
           "Dataacces": "1.0.0",
           "Entity": "1.0.0"
         },
         "runtime": {
           "Business.dll": {}
+        }
+      },
+      "Autofac/7.1.0": {
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "5.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Autofac.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.1.0.0"
+          }
         }
       },
       "Azure.Core/1.24.0": {
@@ -645,6 +657,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XCXmpxhOnuztTTRkzG+8B8KU8SR8WjBYwSntndjlsFR5lM3K/g43r9hUwewIPDBJwDrmZU3TjmNdH6s8IF3VFQ==",
+      "path": "autofac/7.1.0",
+      "hashPath": "autofac.7.1.0.nupkg.sha512"
     },
     "Azure.Core/1.24.0": {
       "type": "package",

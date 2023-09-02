@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uP5jPyDKT7611eABNofA2MXorff6wr24qt1XcC8uskO8miYdn1Ui4tpY646GlNk26vOpzMuWhC5w88LQ3B9m9A==",
+  "dgSpecHash": "fDKXTtiEs/fII4IE+yDXwy3iC1os73vdxD4lgdwKCL3gDKUQONsFu3AClmZyaW8g/st70b3Pr5y9vPATPB0FHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mustafabal\\source\\repos\\netloglogistic\\Logistic\\Business\\Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mustafabal\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\mustafabal\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mustafabal\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\mustafabal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
