@@ -1,0 +1,12 @@
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\bin\Debug\net6.0\ErroHandler.deps.json
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\bin\Debug\net6.0\ErroHandler.dll
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\bin\Debug\net6.0\ErroHandler.pdb
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\ErroHandler.csproj.AssemblyReference.cache
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\ErroHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\ErroHandler.AssemblyInfoInputs.cache
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\ErroHandler.AssemblyInfo.cs
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\ErroHandler.csproj.CoreCompileInputs.cache
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\ErroHandler.dll
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\refint\ErroHandler.dll
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\ErroHandler.pdb
+C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\ErroHandler\obj\Debug\net6.0\ref\ErroHandler.dll

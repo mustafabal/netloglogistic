@@ -10,3 +10,15 @@ C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\C
 C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\refint\Core.dll
 C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\Core.pdb
 C:\Users\mustafabal\source\repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\bin\Debug\net6.0\Core.dll
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\Core.dll
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\mustafa bal\Source\Repos\netloglogistic\Logistic\Core\obj\Debug\net6.0\ref\Core.dll

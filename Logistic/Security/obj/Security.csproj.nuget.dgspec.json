@@ -1,0 +1,355 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj"
+              },
+              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj": {
+                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj"
+              },
+              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj",
+        "projectName": "Dataacces",
+        "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj",
+        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj",
+        "projectName": "Security",
+        "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj",
+        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Business\\Business.csproj"
+              },
+              "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
