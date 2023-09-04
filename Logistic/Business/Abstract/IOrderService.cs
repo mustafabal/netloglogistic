@@ -11,7 +11,7 @@ namespace Business.Abstract
     public interface IOrderService
     {
         IDataResult<List<Order>> GetAll();
-        IDataResult<List<Order>> GetUserNameList(string UserName);
+        IDataResult<List<Order>> GetDateList(DateTime yesterday);
         IDataResult<Order> GetUserName(string UserName);
         IDataResult<Order> GetGiris(string UserName, string Password);
         IDataResult<Order> GetKullaniciAdi(string KullaniciAdi);

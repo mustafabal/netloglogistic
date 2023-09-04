@@ -9,7 +9,7 @@ namespace Dataacces.Concrete.EntityFramework.Contexts
         {
 
 
-            optionsBuilder.UseSqlServer(@"Data Source=----;Initial Catalog=----; User Id=Middleware;Password=---; Integrated Security=false;MultipleActiveResultSets=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer(@"Data Source=94.73.170.48;Initial Catalog=dbnetlo; User Id=dbnetlo;Password=L.e=F_4efSy49B2-; Integrated Security=false;MultipleActiveResultSets=True;TrustServerCertificate=True");
         }
 
         public DbSet<Users> Users { get; set; }

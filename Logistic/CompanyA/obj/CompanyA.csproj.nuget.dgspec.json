@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\CompanyA\\CompanyA.csproj": {}
+    "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\CompanyA\\CompanyA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Business\\Business.csproj": {
+    "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Business\\obj\\",
+        "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\mustafabal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,14 +33,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Core\\Core.csproj"
               },
-              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Dataacces\\Dataacces.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Dataacces\\Dataacces.csproj"
               },
-              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj"
               }
             }
           }
@@ -76,24 +76,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\CompanyA\\CompanyA.csproj": {
+    "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\CompanyA\\CompanyA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\CompanyA\\CompanyA.csproj",
+        "projectUniqueName": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\CompanyA\\CompanyA.csproj",
         "projectName": "CompanyA",
-        "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\CompanyA\\CompanyA.csproj",
-        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\CompanyA\\obj\\",
+        "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\CompanyA\\CompanyA.csproj",
+        "packagesPath": "C:\\Users\\mustafabal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\CompanyA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,21 +103,20 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Business\\Business.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Business\\Business.csproj"
               },
-              "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\ErroHandler\\ErroHandler.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\ErroHandler\\ErroHandler.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\ErroHandler\\ErroHandler.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\ErroHandler\\ErroHandler.csproj"
               },
-              "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Security\\Security.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Security\\Security.csproj"
               }
             }
           }
@@ -164,24 +163,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj": {
+    "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\obj\\",
+        "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\mustafabal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -230,24 +229,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj": {
+    "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Dataacces\\Dataacces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj",
+        "projectUniqueName": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Dataacces\\Dataacces.csproj",
         "projectName": "Dataacces",
-        "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\Dataacces.csproj",
-        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Dataacces\\obj\\",
+        "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Dataacces\\Dataacces.csproj",
+        "packagesPath": "C:\\Users\\mustafabal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Dataacces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -263,8 +262,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj"
               }
             }
           }
@@ -304,24 +303,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj": {
+    "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Entity\\obj\\",
+        "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\mustafabal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -337,8 +336,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Core\\Core.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Core\\Core.csproj"
               }
             }
           }
@@ -368,24 +367,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\ErroHandler\\ErroHandler.csproj": {
+    "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\ErroHandler\\ErroHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\ErroHandler\\ErroHandler.csproj",
+        "projectUniqueName": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\ErroHandler\\ErroHandler.csproj",
         "projectName": "ErroHandler",
-        "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\ErroHandler\\ErroHandler.csproj",
-        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\ErroHandler\\obj\\",
+        "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\ErroHandler\\ErroHandler.csproj",
+        "packagesPath": "C:\\Users\\mustafabal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\ErroHandler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -428,24 +427,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj": {
+    "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Security\\Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj",
+        "projectUniqueName": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Security\\Security.csproj",
         "projectName": "Security",
-        "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\Security.csproj",
-        "packagesPath": "C:\\Users\\mustafa bal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Security\\obj\\",
+        "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Security\\Security.csproj",
+        "packagesPath": "C:\\Users\\mustafabal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mustafa bal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafabal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -461,11 +460,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Business\\Business.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Business\\Business.csproj"
               },
-              "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\mustafa bal\\source\\repos\\netloglogistic\\Logistic\\Entity\\Entity.csproj"
+              "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Entity\\Entity.csproj"
               }
             }
           }
@@ -495,7 +494,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

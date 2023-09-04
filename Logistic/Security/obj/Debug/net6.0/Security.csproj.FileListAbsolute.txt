@@ -19,3 +19,24 @@ C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\Security\obj\Debug\net
 C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\Security\obj\Debug\net6.0\refint\Security.dll
 C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\Security\obj\Debug\net6.0\Security.pdb
 C:\Users\mustafa bal\source\repos\netloglogistic\Logistic\Security\obj\Debug\net6.0\ref\Security.dll
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Security.deps.json
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Security.dll
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Security.pdb
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Business.dll
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Core.dll
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Dataacces.dll
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Entity.dll
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Business.pdb
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Entity.pdb
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Core.pdb
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\bin\Debug\net6.0\Dataacces.pdb
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\Security.csproj.AssemblyReference.cache
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\Security.AssemblyInfoInputs.cache
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\Security.AssemblyInfo.cs
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\Security.csproj.CoreCompileInputs.cache
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\Security.csproj.CopyComplete
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\Security.dll
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\refint\Security.dll
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\Security.pdb
+C:\Users\mustafabal\source\repos\Abc\Logistic\Security\obj\Debug\net6.0\ref\Security.dll

@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Core.Entities.Utilities.Result;
+using Dataacces.Abstract;
 using Entity.Concrete;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,11 @@ namespace Business.Concrete
 {
     public class OrderManager : IOrderService
     {
+        private IOrderDal _FileDetailsDal;
+        public OrderManager(IOrderDal fileDetailsDal)
+        {
+            _FileDetailsDal = fileDetailsDal;
+        }
         public IDataResult<Order> Add(Order user)
         {
             throw new NotImplementedException();
@@ -41,9 +47,9 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
-        public IDataResult<List<Order>> GetUserNameList(string UserName)
+        public IDataResult<List<Order>> GetDateList(DateTime yesterday)
         {
-            throw new NotImplementedException();
+            return new SuccesDataResult<List<Order>>(_FileDetailsDal.GetList(p=>p.Tarih>yesterday));
         }
 
         public IDataResult<Order> Update(Order user)

@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "XxCUlADhzrPdqzkn8HXLYI/62yd9q6WF/TwqetriaGvlckGO/p06TH185k7KiIQhQd2pECORYZo7TO22QSqD3A==",
+  "dgSpecHash": "90uIej7XbixMSv4xigTjiyHGLvTxdFN3fLrxN97XxFss8NzIW12UVpQKjYKLvStRRFyPxJG1p/2Wlx8vHSQJxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mustafa bal\\Source\\Repos\\netloglogistic\\Logistic\\Logistic\\Logistic.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mustafabal\\source\\repos\\Abc\\Logistic\\Logistic\\Logistic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mustafabal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\mustafabal\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mustafabal\\.nuget\\packages\\quartz\\3.7.0\\quartz.3.7.0.nupkg.sha512",
+    "C:\\Users\\mustafabal\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\mustafabal\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\mustafabal\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\mustafabal\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\mustafabal\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mustafabal\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

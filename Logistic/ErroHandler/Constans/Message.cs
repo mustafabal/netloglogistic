@@ -19,6 +19,7 @@ namespace ErroHandler.Constans
         public static string ProductAdded = "Ürün Başarılı Eklendi";
         public static string ProductDeleted = "Ürün Başarılı Silindi";
         public static string ProductUpdated = "Ürün Başarılı Güncellendi";
+        public static string GetOrderList = "Ürün Başarılı Listelendi";
 
 
     }
