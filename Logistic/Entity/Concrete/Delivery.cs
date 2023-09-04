@@ -13,7 +13,7 @@ namespace Entity.Concrete
         public DateTime Tarih { get; set; }
         [Required(ErrorMessage = "Zorunlu Alan"), MaxLength(8, ErrorMessage = "plaka en fazla 8 karakter olmalı"), MinLength(3, ErrorMessage = "plaka En az 6 karakter olmalı")]
         public string Plaka { get; set; }
-
+        [Required(ErrorMessage = "Zorunlu Alan"), MaxLength(50), MinLength(3)]
         public Users TeslimEdenKisi { get; set; }
     }
 }

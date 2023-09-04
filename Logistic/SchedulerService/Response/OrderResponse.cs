@@ -12,12 +12,12 @@ namespace SchedulerService.Response
         public string TeslimAlacakKisi { get; set; }
         public string TelefonNo { get; set; }
         public string SevkNoktasi { get; set; }
-        public DateTime? Tarih { get; set; }
+        public DateTime Tarih { get; set; }
         public int id { get; set; }
         public string createdBy { get; set; }
-        public DateTime? createdDate { get; set; }
+        public DateTime createdDate { get; set; }
         public string lastModifiedBy { get; set; }
-        public DateTime? lastModifiedDate { get; set; }
+        public DateTime lastModifiedDate { get; set; }
     }
 
     public class OrderResponse
