@@ -14,7 +14,7 @@ namespace Business.Abstract
         IDataResult<List<Order>> GetDateList(DateTime yesterday);
         IDataResult<Order> GetUserName(string UserName);
         IDataResult<Order> GetGiris(string UserName, string Password);
-        IDataResult<Order> GetKullaniciAdi(string KullaniciAdi);
+        IDataResult<Order> GetSiparisTamala(long id);
         IDataResult<Order> GetByID(int UserID);
         IDataResult<Order> Add(Order user);
         IDataResult<Order> Update(Order user);

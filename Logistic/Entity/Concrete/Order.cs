@@ -15,5 +15,6 @@ namespace Entity.Concrete
         public string TelefonNo { get; set; }
         public string SevkNoktasi { get; set; }
         public DateTime? Tarih { get; set; }
+        public int status { get; set; }
     }
 }

@@ -37,9 +37,10 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
-        public IDataResult<Order> GetKullaniciAdi(string KullaniciAdi)
+        public IDataResult<Order> GetSiparisTamala(long id)
         {
-            throw new NotImplementedException();
+            return new SuccesDataResult<Order>(_FileDetailsDal.Get(p => p.Id > id && p.status==0));
+
         }
 
         public IDataResult<Order> GetUserName(string UserName)

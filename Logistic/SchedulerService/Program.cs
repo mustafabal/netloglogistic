@@ -12,7 +12,7 @@ class Program
         
 
         SchedulerHelper.SchedulerSetup();
-
+        SchedulerHelper.SchedulerSetupComplete();
         Console.ReadLine();
     }
 }

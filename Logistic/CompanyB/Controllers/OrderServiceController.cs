@@ -21,8 +21,8 @@ namespace CompanyB.Controllers
             _orderService = orderService;
         }
         [HttpGet]
-        [Route("authenticate")]
-        public IActionResult Authenticate()
+        [Route("GetOrderList")]
+        public IActionResult GetOrderList()
         {
             try
             {
